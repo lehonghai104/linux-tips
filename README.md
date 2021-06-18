@@ -1,2 +1,3 @@
-# linux-tips
-Linux tips for beginner
+# Linux tips for beginner
+
+Most of tips base on Ubuntu 18.04
